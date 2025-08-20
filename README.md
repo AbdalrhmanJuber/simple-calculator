@@ -1,6 +1,8 @@
 # Simple Calculator
 
 A basic calculator web application built with HTML, CSS, and JavaScript.
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/5335d755-2bf3-4d10-a3e8-37fecb14714a" />
+
 
 ## Features
 
